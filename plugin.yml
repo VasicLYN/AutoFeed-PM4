@@ -1,0 +1,9 @@
+name: AutoFeed
+version: 1.0.0
+main: AutoFeed\Main
+api: [4.0.0]
+author: VasicLYN
+
+permissions:
+  autofeed.permission:
+    description: "AutoFeed Permission"
